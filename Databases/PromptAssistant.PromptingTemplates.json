@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "681131891484ffc8089e3d25"
+  },
+  "Prompting Technique": "PoT (Program of Thoughts)",
+  "Standard Template": "\"Let's solve the problem step-by-step, breaking it into programs or pseudo-code to reason systematically.\""
+},
+{
+  "_id": {
+    "$oid": "681131891484ffc8089e3d26"
+  },
+  "Prompting Technique": "CoT (Chain of Thought)",
+  "Standard Template": "\"Let's think step-by-step.\""
+},
+{
+  "_id": {
+    "$oid": "681131891484ffc8089e3d27"
+  },
+  "Prompting Technique": "Synthetic Prompting",
+  "Standard Template": "\"Generate synthetic examples or problem-solution pairs before solving.\""
+},
+{
+  "_id": {
+    "$oid": "681131891484ffc8089e3d28"
+  },
+  "Prompting Technique": "Active-Prompt",
+  "Standard Template": "\"Actively decompose the problem into sub-questions and solve them one at a time.\""
+},
+{
+  "_id": {
+    "$oid": "681131891484ffc8089e3d29"
+  },
+  "Prompting Technique": "LoT (Language of Thought)",
+  "Standard Template": "\"Describe the solution by constructing structured logical steps (as if in a formal language).\""
+},
+{
+  "_id": {
+    "$oid": "681131891484ffc8089e3d2a"
+  },
+  "Prompting Technique": "Implicit RAG",
+  "Standard Template": "\"Use the context provided above and answer the question precisely.\""
+},
+{
+  "_id": {
+    "$oid": "681131891484ffc8089e3d2b"
+  },
+  "Prompting Technique": "CoVe (Contextual Verifier)",
+  "Standard Template": "\"Verify the context relevance before generating an answer.\""
+},
+{
+  "_id": {
+    "$oid": "681131891484ffc8089e3d2c"
+  },
+  "Prompting Technique": "CoS (Chain of Spatial Thought)",
+  "Standard Template": "\"Describe spatial relationships step-by-step to reach the answer.\""
+},
+{
+  "_id": {
+    "$oid": "681131891484ffc8089e3d2d"
+  },
+  "Prompting Technique": "ThoT (Theory of Thought)",
+  "Standard Template": "\"Apply theoretical reasoning step-by-step to guide the conversation.\""
+},
+{
+  "_id": {
+    "$oid": "681131891484ffc8089e3d2e"
+  },
+  "Prompting Technique": "Analogical Reasoning",
+  "Standard Template": "\"Relate the given problem to a similar known example before solving.\""
+},
+{
+  "_id": {
+    "$oid": "681131891484ffc8089e3d2f"
+  },
+  "Prompting Technique": "ToT (Tree of Thoughts)",
+  "Standard Template": "\"Explore multiple possible reasoning paths and choose the best one.\""
+},
+{
+  "_id": {
+    "$oid": "681131891484ffc8089e3d30"
+  },
+  "Prompting Technique": "ReAct",
+  "Standard Template": "\"Think step-by-step, decide an action, then observe the result, and repeat.\""
+},
+{
+  "_id": {
+    "$oid": "681131891484ffc8089e3d31"
+  },
+  "Prompting Technique": "Chain-of-Table",
+  "Standard Template": "\"Chain table lookups and computations step-by-step to derive the answer.\""
+},
+{
+  "_id": {
+    "$oid": "681131891484ffc8089e3d32"
+  },
+  "Prompting Technique": "PAL (Program-Aided Language Model)",
+  "Standard Template": "\"Write a programmatic function to solve the problem, then run and explain it.\""
+},
+{
+  "_id": {
+    "$oid": "681131891484ffc8089e3d33"
+  },
+  "Prompting Technique": "Basic Prompting",
+  "Standard Template": "\"Directly answer the question based on given input.\""
+},
+{
+  "_id": {
+    "$oid": "681131891484ffc8089e3d34"
+  },
+  "Prompting Technique": "CoC (Chain of Classification)",
+  "Standard Template": "\"Classify step-by-step based on logical feature checks.\""
+},
+{
+  "_id": {
+    "$oid": "681131891484ffc8089e3d35"
+  },
+  "Prompting Technique": "MP (Meta-Prompting)",
+  "Standard Template": "\"Generate a prompt that would solve the problem, then apply it.\""
+},
+{
+  "_id": {
+    "$oid": "681131891484ffc8089e3d36"
+  },
+  "Prompting Technique": "CoE (Chain of Extraction)",
+  "Standard Template": "\"Extract key facts and reason step-by-step based on extracted information.\""
+}]
