@@ -1,0 +1,203 @@
+[{
+  "_id": {
+    "$oid": "680d3620da934dbdcf31152f"
+  },
+  "nlp_task": "Mathematical Problem Solving",
+  "prompting_technique": "PoT (Program of Thoughts)"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf311530"
+  },
+  "nlp_task": "Logical Reasoning",
+  "prompting_technique": "CoT (Chain of Thought)"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf311531"
+  },
+  "nlp_task": "Commonsense Reasoning",
+  "prompting_technique": "Synthetic Prompting"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf311532"
+  },
+  "nlp_task": "Multi-Hop Reasoning",
+  "prompting_technique": "Active-Prompt"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf311533"
+  },
+  "nlp_task": "Causal Reasoning",
+  "prompting_technique": "CoT (Chain of Thought)"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf311534"
+  },
+  "nlp_task": "Social Reasoning",
+  "prompting_technique": "LoT (Language of Thought)"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf311535"
+  },
+  "nlp_task": "Contextual Question-Answering",
+  "prompting_technique": "Implicit RAG"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf311536"
+  },
+  "nlp_task": "Context-Free Question-Answering",
+  "prompting_technique": "CoVe (Contextual Verifier)"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf311537"
+  },
+  "nlp_task": "Spatial Question-Answering",
+  "prompting_technique": "CoS (Chain of Spatial Thought)"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf311538"
+  },
+  "nlp_task": "Conversational Contextual Question-Answering",
+  "prompting_technique": "PoT (Program of Thoughts)"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf311539"
+  },
+  "nlp_task": "Dialogue System",
+  "prompting_technique": "ThoT (Theory of Thought)"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf31153a"
+  },
+  "nlp_task": "Code Generation",
+  "prompting_technique": "Analogical Reasoning"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf31153b"
+  },
+  "nlp_task": "Free Response",
+  "prompting_technique": "ToT (Tree of Thoughts)"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf31153c"
+  },
+  "nlp_task": "Truthfulness",
+  "prompting_technique": "ReAct"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf31153d"
+  },
+  "nlp_task": "Table-Based Truthfulness",
+  "prompting_technique": "Chain-of-Table"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf31153e"
+  },
+  "nlp_task": "Table-Based Question-Answering",
+  "prompting_technique": "Chain-of-Table"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf31153f"
+  },
+  "nlp_task": "Table-Based Mathematical Problem Solving",
+  "prompting_technique": "PAL (Program-Aided Language Model)"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf311540"
+  },
+  "nlp_task": "Recommender System",
+  "prompting_technique": "Basic Prompting"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf311541"
+  },
+  "nlp_task": "Emotion/Sentiment Understanding",
+  "prompting_technique": "CoC (Chain of Classification)"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf311542"
+  },
+  "nlp_task": "Machine Translation",
+  "prompting_technique": "Basic Prompting"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf311543"
+  },
+  "nlp_task": "Named Entity Recognition",
+  "prompting_technique": "Basic + Annotation Guideline-Based Prompting"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf311544"
+  },
+  "nlp_task": "Word Sense Disambiguation",
+  "prompting_technique": "MP (Meta-Prompting)"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf311545"
+  },
+  "nlp_task": "Summarization",
+  "prompting_technique": "CoE (Chain of Extraction)"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf311546"
+  },
+  "nlp_task": "Paraphrasing",
+  "prompting_technique": "MP (Meta-Prompting)"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf311547"
+  },
+  "nlp_task": "Stance Detection",
+  "prompting_technique": "CoT (Chain of Thought)"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf311548"
+  },
+  "nlp_task": "Natural Language Inference",
+  "prompting_technique": "MP"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf311549"
+  },
+  "nlp_task": "Relation Extraction",
+  "prompting_technique": "MP"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf31154a"
+  },
+  "nlp_task": "Language-Based Task Completion",
+  "prompting_technique": "ReAct"
+},
+{
+  "_id": {
+    "$oid": "680d3620da934dbdcf31154b"
+  },
+  "nlp_task": "Multilabel Text Classification",
+  "prompting_technique": "MP"
+}]
